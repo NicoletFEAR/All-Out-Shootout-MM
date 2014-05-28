@@ -7,5 +7,6 @@ package com.nicoletfear;
  * floating around.
  */
 public class RobotMap {
-
+    public static int LeftMotorsPort = 1;
+    public static int RightMotorsPort = 2;
 }

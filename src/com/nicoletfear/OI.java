@@ -8,5 +8,6 @@ import edu.wpi.first.wpilibj.Joystick;
  */
 public class OI {
     public GenericHID driveStick = new Joystick(1);
+    public GenericHID shootStick = new Joystick(2);
 }
 
